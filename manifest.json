@@ -1,0 +1,11 @@
+{
+  "name": "Hatem Porsche",
+  "shortname": "Hatem",
+  "start-url": "/?home=true",
+  "icons": [
+
+  ],
+  "theme_color": "#FFFFFF",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
