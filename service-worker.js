@@ -2,5 +2,5 @@ importScripts('https://www.storage.googleapis.com/workbox-cdn/releases/6.0.2/wor
 
 workbox.routing.registerRoute(
   ({request}) => request.destination === 'image',
-  new workbox.strategies.NetworkFirst();
+  new workbox.strategies.NetworkFirst()
 );
